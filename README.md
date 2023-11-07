@@ -2,7 +2,7 @@
 
 ## Table Content
 
-Data Analysis and Python:
+Python:
 - [Python for Data Analysis](https://github.com/taquero-programador/Data-Analysis/tree/master/Python%20for%20Data%20Analysis)
 
 SQL:
