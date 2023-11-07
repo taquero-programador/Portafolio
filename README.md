@@ -3,7 +3,7 @@
 ## Table Conent
 
 Data Analysis and Python:
-- [Python fo Data Analysis](https://github.com/taquero-programador/Data-Analysis/tree/master/Python%20for%20Data%20Analysis)
+- [Python for Data Analysis](https://github.com/taquero-programador/Data-Analysis/tree/master/Python%20for%20Data%20Analysis)
 
 SQL:
 - [8 weeks SQL Challenge](https://github.com/taquero-programador/sql)
