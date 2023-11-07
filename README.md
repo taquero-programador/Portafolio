@@ -1,2 +1,17 @@
 # Portafolio
-Summary of projects and case studies in Linux and Data Analysis.
+
+## Table Conent
+
+Data Analysis and Python:
+- [Python fo Data Analysis](https://github.com/taquero-programador/Data-Analysis/tree/master/Python%20for%20Data%20Analysis)
+
+SQL:
+- [8 weeks SQL Challenge](https://github.com/taquero-programador/sql)
+
+R:
+- [Introducción a R](https://github.com/taquero-programador/r)
+
+Linux:
+- [LPI](https://github.com/taquero-programador/lpi101)
+- [Bash](https://github.com/taquero-programador/Bash)
+- [Dotfiles](https://github.com/taquero-programador/dotfiles)
